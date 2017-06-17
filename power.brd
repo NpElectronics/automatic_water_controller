@@ -328,7 +328,8 @@ type 0207, grid 10 mm</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.508" drill="30.48">
+<clearance class="0" value="1.016"/>
 </class>
 </classes>
 <designrules name="default">

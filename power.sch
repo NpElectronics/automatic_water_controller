@@ -10675,7 +10675,8 @@ Added bigger pads to the TO-92 package</description>
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0" drill="0">
+<class number="0" name="default" width="0.508" drill="30.48">
+<clearance class="0" value="1.016"/>
 </class>
 </classes>
 <parts>
@@ -10837,7 +10838,7 @@ Added bigger pads to the TO-92 package</description>
 <junction x="63.5" y="27.94"/>
 </segment>
 </net>
-<net name="N$3" class="0">
+<net name="GND" class="0">
 <segment>
 <pinref part="D1" gate="1" pin="A"/>
 <wire x1="27.94" y1="53.34" x2="25.4" y2="53.34" width="0.1524" layer="91"/>
@@ -10862,6 +10863,9 @@ Added bigger pads to the TO-92 package</description>
 <junction x="81.28" y="10.16"/>
 <pinref part="JP1" gate="A" pin="2"/>
 <wire x1="99.06" y1="22.86" x2="106.68" y2="22.86" width="0.1524" layer="91"/>
+<label x="83.82" y="2.54" size="1.778" layer="95" xref="yes"/>
+<wire x1="83.82" y1="2.54" x2="81.28" y2="2.54" width="0.1524" layer="91"/>
+<wire x1="81.28" y1="2.54" x2="81.28" y2="10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$5" class="0">
