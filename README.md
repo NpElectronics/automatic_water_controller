@@ -1,5 +1,9 @@
 # Automatic Motor Controller
 
+## Software Required
++ [Eagle](https://www.autodesk.com/products/eagle/overview)
++ Library for eagle - [adafruit](https://github.com/adafruit/Adafruit-Eagle-Library)
+
 ## Power Circuit:
 ### Hardware Required:
 + Diode, 1n4007 -4x
