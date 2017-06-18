@@ -24,8 +24,14 @@
 + Nand Gate, 7400 -2x
 + JK flipflop, 74HC76N -1x
 + Transistor, BC548 -1x
-+ Resisotr, 1k, 1x
++ Resisotor, 1k, 1x
 + Diode, 1n4007 - 1x
-+ Electrolytic capacitor, 470uF - 1x
++ Electrolytic capacitor, 470uF - 1x 
 + Electromechanical Relay, 6V -1x
+
+## Cost Estimation
++ x-rated Capacitor Rs.45
++ Resistor 2M2      Rs.5
++ Other power circuit Rs.140
+
 
