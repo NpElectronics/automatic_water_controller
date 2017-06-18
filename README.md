@@ -7,6 +7,7 @@
 ## Hardware Required:
 
 ### Power Circuit:
+![alt text](https://github.com/suren37/automatic_water_controller/blob/master/docs/power_sch.png "Power circuit Schematic")
 + Diode, 1n4007 -4x
 + Zenor DIode, 6v2 - 1x
 + Capacitor Electrolytic, 100uF -1x
