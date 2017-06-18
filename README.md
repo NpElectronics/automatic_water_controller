@@ -4,8 +4,9 @@
 + [Eagle](https://www.autodesk.com/products/eagle/overview)
 + Library for eagle - [adafruit](https://github.com/adafruit/Adafruit-Eagle-Library)
 
-## Power Circuit:
-### Hardware Required:
+## Hardware Required:
+
+### Power Circuit:
 + Diode, 1n4007 -4x
 + Zenor DIode, 6v2 - 1x
 + Capacitor Electrolytic, 100uF -1x
@@ -16,8 +17,7 @@
 + Male header block, 3pin -1x
 + Prototype matrix board, small -1x
 
-## Controller Board:
-### Hardware Required:
+### Controller Board:
 + Male Header(Box), 4pin -1x
 + Male Header(Box), 3pin, 2x
 + Nand Gate, 7400 -2x
